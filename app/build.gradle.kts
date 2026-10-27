@@ -5,15 +5,15 @@ plugins {
 android {
     namespace = "com.example.practicaevaluabletema1claudia"
     compileSdk {
-        version = release(36) {
+        version = release(37) {
             minorApiLevel = 1
         }
     }
 
     defaultConfig {
         applicationId = "com.example.practicaevaluabletema1claudia"
-        minSdk = 22
-        targetSdk = 36
+        minSdk = 23
+        targetSdk = 37
         versionCode = 1
         versionName = "1.0"
 
